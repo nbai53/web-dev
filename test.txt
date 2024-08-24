@@ -1,1 +1,3 @@
 This is my first commit!
+
+mijenjam tekst koji je unutar
